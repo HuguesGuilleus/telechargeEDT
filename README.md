@@ -2,7 +2,7 @@
 
 Télécharge l'EDT sur le site de la fac avec le mot de passe...
 
-# Binaire
+## Binaire
 Vous pouvez soit compiler le projet, soit télécharger des binaires à cette adresse https://github.com/HuguesGuilleus/telechargeEDT/releases.
 
 ## Compilation
